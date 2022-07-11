@@ -1,11 +1,11 @@
 <?php return array(
     'root' => array(
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
+        'pretty_version' => 'dev-dev',
+        'version' => 'dev-dev',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => NULL,
+        'reference' => '88de35ed232f3c1afaccd8a9ca2fb0de6f0ed049',
         'name' => 'drupal/recommended-project',
         'dev' => true,
     ),
@@ -746,12 +746,12 @@
             ),
         ),
         'drupal/recommended-project' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
+            'pretty_version' => 'dev-dev',
+            'version' => 'dev-dev',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => NULL,
+            'reference' => '88de35ed232f3c1afaccd8a9ca2fb0de6f0ed049',
             'dev_requirement' => false,
         ),
         'drupal/responsive_image' => array(
@@ -1082,12 +1082,12 @@
             'dev_requirement' => false,
         ),
         'psr/container' => array(
-            'pretty_version' => '1.1.1',
-            'version' => '1.1.1.0',
+            'pretty_version' => '1.1.2',
+            'version' => '1.1.2.0',
             'type' => 'library',
             'install_path' => __DIR__ . '/../psr/container',
             'aliases' => array(),
-            'reference' => '8622567409010282b7aeebe4bb841fe98b58dcaf',
+            'reference' => '513e0666f7216c7459170d56df27dfcefe1689ea',
             'dev_requirement' => false,
         ),
         'psr/container-implementation' => array(
@@ -1149,12 +1149,12 @@
             ),
         ),
         'psy/psysh' => array(
-            'pretty_version' => 'v0.11.6',
-            'version' => '0.11.6.0',
+            'pretty_version' => 'v0.11.7',
+            'version' => '0.11.7.0',
             'type' => 'library',
             'install_path' => __DIR__ . '/../psy/psysh',
             'aliases' => array(),
-            'reference' => '3f5b5f8aaa979fbd0d1783173f4c82ad529fe621',
+            'reference' => '77fc7270031fbc28f9a7bea31385da5c4855cb7a',
             'dev_requirement' => false,
         ),
         'ralouphie/getallheaders' => array(
